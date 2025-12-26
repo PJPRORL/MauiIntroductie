@@ -8,7 +8,7 @@ global using Microsoft.Maui.Controls;
 global using MauiIntroductie.Views;
 global using MauiIntroductie.ViewModels;
 global using System.Collections.ObjectModel;
-
+global using MauiIntroductie.Models;
 
 namespace MauiIntroductie
 {
